@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-<a href="hhlab.tistory.com">blog</a>
+<a href="https://hhlab.tistory.com/">blog</a>
 <table style="align:left;">
   <tr>
     <th>2022.01 ~ </th>
