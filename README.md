@@ -12,18 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>
-  <i>"One must live the way one thinks<br>
-    or end up thinking the way one has lived"</i>
-</p>
+## ___"One must live the way one thinks<br>or end up thinking the way one has lived"<br>___
 <a href="https://judicious-carrot-2a3.notion.site/Portfolio-3499a7bc37b2422889336a19493c1710" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5D5D5D?style=flat&logo=Notion&logoColor=FFFFFF"/></a>
 <a href="https://hhlab.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/hhlab-orange?style=flat&logo=Bloglovin&logoColor=FFFFFF"/></a>
 <a href="https://instagram.com/ruuu_hz/" target="_blank"><img src="https://img.shields.io/badge/ruuu_hz-E4405F?style=flat&logo=Instagram&logoColor=FFFFFF"/></a>
-<a href="https://hhlab.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/96fbgudwn@naver.com-000000?style=flat&logo=Gmail&logoColor=FFFFFF"/></a>
-<hr>
-<ul>
-  <li>Backend</li>
-  <li>ML</li>
-  <li>Blockchain</li>
-  <li>Computer vision</li>
-</ul>
+
+> * Backend
+> * ML
+> * Blockchain
+> * Computer vision
