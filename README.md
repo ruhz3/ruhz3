@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###  👋
+### ⚡
 <p>
   <i>"One must live the way one thinks<br>
     or end up thinking the way one has lived"</i>
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a href="https://hhlab.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5D5D5D?style=flat&logo=Notion&logoColor=FFFFFF"/></a>
 <a href="https://hhlab.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/hhlab-orange?style=flat&logo=Bloglovin&logoColor=FFFFFF"/></a>
 <a href="https://hhlab.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/ruuu_hz-E4405F?style=flat&logo=Instagram&logoColor=FFFFFF"/></a>
-<a href="https://hhlab.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/96fbgudwn@naver.com-428813?style=flat&logo=Gmail&logoColor=FFFFFF"/></a>
+<a href="https://hhlab.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/96fbgudwn@naver.com-000000?style=flat&logo=Gmail&logoColor=FFFFFF"/></a>
 <hr>
 <ul>
   <li>Backend</li>
