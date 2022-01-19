@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-2022.01             Samsung SW Academy For Youth
-2021.07 ~ 2021.12   Hancomw With Internship
-2020.07 ~ 2020.12   RiseGroup National Project Part-timer
-2016.02 ~           Multimedia Engineering, Dongguk University, 
+2022.01             Samsung SW Academy For Youth<br>
+2021.07 ~ 2021.12   Hancomw With Internship<br>
+2020.07 ~ 2020.12   RiseGroup National Project Part-timer<br>
+2016.02 ~           Multimedia Engineering, Dongguk University, <br>
