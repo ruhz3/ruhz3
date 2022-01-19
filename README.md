@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ruhz3/ruhz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+<a href="hhlab.tistory.com">blog</a>
 <table style="align:left;">
   <tr>
     <th>2022.01 ~ </th>
