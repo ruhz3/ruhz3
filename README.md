@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<table>
+<table style="align:left;">
   <tr>
-    <th>2022.01 ~ ____.__</th>
+    <th>2022.01 ~ </th>
     <td>Samsung SW Academy For Youth</td>
   </tr>
   <tr>
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <td>RiseGroup National Project Part-timer</td>
   </tr>
   <tr>
-    <th>2016.02 ~ ____.__</th>
+    <th>2016.02 ~ </th>
     <td>Multimedia Engineering, Dongguk University</td>
   </tr>
 </table>
