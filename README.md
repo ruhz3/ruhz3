@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### ⚡
 <p>
   <i>"One must live the way one thinks<br>
     or end up thinking the way one has lived"</i>
