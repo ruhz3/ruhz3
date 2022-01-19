@@ -12,23 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
-<a href="https://hhlab.tistory.com/">blog</a>
-<table style="align:left;">
-  <tr>
-    <th>2022.01 ~ </th>
-    <td>SAMSUNG SW Academy For Youth</td>
-  </tr>
-  <tr>
-    <th>2021.07 ~ 2021.12</th>
-    <td>HANCOM With Internship</td>
-  </tr>
-  <tr>
-    <th>2020.07 ~ 2020.12</th>
-    <td>Univ. Lab National Project Part-timer</td>
-  </tr>
-  <tr>
-    <th>2016.02 ~ </th>
-    <td>Multimedia Engineering, Dongguk University</td>
-  </tr>
-</table>
+###  👋
+<p>
+  <i>"One must live the way one thinks<br>
+    or end up thinking the way one has lived"</i>
+</p>
+<a href="https://hhlab.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5D5D5D?style=flat&logo=Notion&logoColor=FFFFFF"/></a>
+<a href="https://hhlab.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/hhlab-orange?style=flat&logo=Bloglovin&logoColor=FFFFFF"/></a>
+<a href="https://hhlab.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/ruuu_hz-E4405F?style=flat&logo=Instagram&logoColor=FFFFFF"/></a>
+<a href="https://hhlab.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/96fbgudwn@naver.com-428813?style=flat&logo=Gmail&logoColor=FFFFFF"/></a>
+<hr>
+<ul>
+  <li>Backend</li>
+  <li>ML</li>
+  <li>Blockchain</li>
+  <li>Computer vision</li>
+</ul>
