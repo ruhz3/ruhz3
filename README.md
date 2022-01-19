@@ -15,9 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <table>
-  <th>
+  <tr>
+    <th>2022.01 ~ </th>
+    <td>Samsung SW Academy For Youth</td>
+  </tr>
+  <tr>
+    <th>2021.07 ~ 2021.12</th>
+    <td>Hancomw With Internship</td>
+  </tr>
+  <tr>
+    <th>2020.07 ~ 2020.12</th>
+    <td>RiseGroup National Project Part-timer</td>
+  </tr>
+  <tr>
+    <th>2016.02 ~ </th>
+    <td>Multimedia Engineering, Dongguk University</td>
+  </tr>
 </table>
-2022.01             Samsung SW Academy For Youth<br>
-2021.07 ~ 2021.12   Hancomw With Internship<br>
-2020.07 ~ 2020.12   RiseGroup National Project Part-timer<br>
-2016.02 ~           Multimedia Engineering, Dongguk University, <br>
