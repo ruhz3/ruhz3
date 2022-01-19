@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <table>
   <tr>
-    <th>2022.01 ~ </th>
+    <th>2022.01 ~ ____.__</th>
     <td>Samsung SW Academy For Youth</td>
   </tr>
   <tr>
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <td>RiseGroup National Project Part-timer</td>
   </tr>
   <tr>
-    <th>2016.02 ~ </th>
+    <th>2016.02 ~ ____.__</th>
     <td>Multimedia Engineering, Dongguk University</td>
   </tr>
 </table>
