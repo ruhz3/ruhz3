@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 <table style="align:left;">
   <tr>
     <th>2022.01 ~ </th>
-    <td>Samsung SW Academy For Youth</td>
+    <td>SAMSUNG SW Academy For Youth</td>
   </tr>
   <tr>
     <th>2021.07 ~ 2021.12</th>
-    <td>Hancomw With Internship</td>
+    <td>HANCOM With Internship</td>
   </tr>
   <tr>
     <th>2020.07 ~ 2020.12</th>
-    <td>RiseGroup National Project Part-timer</td>
+    <td>Univ. Lab National Project Part-timer</td>
   </tr>
   <tr>
     <th>2016.02 ~ </th>
