@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 
-## ___"생각한대로 살지 않으면, 사는 대로 생각하게 된다."<br>___
+## ___"생각한대로 살지 않으면, 사는 대로 생각하게 된다"<br>___
 <a href="https://judicious-carrot-2a3.notion.site/Portfolio-3499a7bc37b2422889336a19493c1710" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5D5D5D?style=flat&logo=Notion&logoColor=FFFFFF"/></a>
 <a href="https://hhlab.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/hhlab-orange?style=flat&logo=Bloglovin&logoColor=FFFFFF"/></a>
 <a href="https://instagram.com/ruuu_hz/" target="_blank"><img src="https://img.shields.io/badge/ruuu_hz-E4405F?style=flat&logo=Instagram&logoColor=FFFFFF"/></a>
