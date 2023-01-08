@@ -3,10 +3,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on ... MLOps Engineer
+- 🌱 I’m currently learning ... Kubernetes, Spark, Scala
+- 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
@@ -15,12 +14,12 @@ Here are some ideas to get you started:
 
 
 
-## ___"생각한대로 살지 않으면, 사는 대로 생각하게 된다"<br>___
-<a href="https://ruhz3.notion.site/3499a7bc37b2422889336a19493c1710"/><img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=flat&logo=Notion&logoColor=000000"/></a>
-<a href="https://hhlab.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/hhlab-orange?style=flat&logo=Bloglovin&logoColor=FFFFFF"/></a>
-<a href="https://instagram.com/ruuu_hz/" target="_blank"><img src="https://img.shields.io/badge/ruuu_hz-E4405F?style=flat&logo=Instagram&logoColor=FFFFFF"/></a>
+## ___"One must live the way one thinks or end up thinking the way one has lived."<br>___
+<a href="https://ruhz3.github.io/portfolio"/><img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=flat"/></a>
+<a href="https://hhlab.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-orange?style=flat"/></a>
+<a href="https://instagram.com/ruuu_hz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat"/></a>
 
-> * Backend
-> * ML
-> * Blockchain
-> * Computer vision
+> * MLOps
+> * Data Engineering
+> * Web Development
+
