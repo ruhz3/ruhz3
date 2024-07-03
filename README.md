@@ -1,25 +1,11 @@
-<!--
-**ruhz3/ruhz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+아무리 무거운 짐을 진 사람이라고 하더라도 밤이 오기 전까지라면 견딜 수 있다. \
+아무리 힘든 일이라도 누구나 하루 동안은 할 수 있다. \
+모든 사람은 해가 질 때까지 다정한 태도로 인내하고 사랑하며, 순수하게 살 수 있다. \
+우리의 삶에서 의미 있는 부분은 그게 전부다.
 
-Here are some ideas to get you started:
+No matter how heavy the burden, anyone can bear it until night falls. \
+No matter how difficult the task, anyone can handle it for a day. \
+Everyone can live with kindness, patience, love, and purity until the sun sets. \
+That is the meaningful part of our lives.
 
-- 🔭 I’m currently working on ... MLOps Engineer
-- 🌱 I’m currently learning ... Kubernetes, Spark, Scala
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-## ___"One must live the way one thinks or end up thinking the way one has lived."<br>___
-<a href="https://ruhz3.github.io/portfolio"/><img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=flat"/></a>
-<a href="https://hhlab.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-orange?style=flat"/></a>
-<a href="https://instagram.com/ruuu_hz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat"/></a>
-
-> * MLOps
-> * Data Engineering
-> * Web Development
-
+**(Rober Louis Sevenson, 1850~1894)**
